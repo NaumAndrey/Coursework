@@ -1,0 +1,9 @@
+﻿  Project.cpp
+C:\Users\spider\Desktop\Programm\Project\Project\Project.cpp(170,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\spider\Desktop\Programm\Project\Project\Project.cpp(746,35): warning C4018: '<': signed/unsigned mismatch
+C:\Users\spider\Desktop\Programm\Project\Project\Project.cpp(808,43): warning C4018: '<': signed/unsigned mismatch
+C:\Users\spider\Desktop\Programm\Project\Project\Project.cpp(810,51): warning C4018: '<': signed/unsigned mismatch
+C:\Users\spider\Desktop\Programm\Project\Project\Project.cpp(812,43): warning C4834: discarding return value of function with 'nodiscard' attribute
+C:\Users\spider\Desktop\Programm\Project\Project\Project.cpp(815,43): warning C4834: discarding return value of function with 'nodiscard' attribute
+C:\Users\spider\Desktop\Programm\Project\Project\Project.cpp(816,43): warning C4834: discarding return value of function with 'nodiscard' attribute
+  Project.vcxproj -> C:\Users\spider\Desktop\Programm\Project\Debug\Project.exe
